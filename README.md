@@ -1,8 +1,14 @@
-# CU Boulder CS Masters Compendium
+# CU Boulder CS Masters Compendium 
 A curated collection of my work in LLMs, AI, ML, Deep Learning, and Parallel Computing from my Master's at CU Boulder.
 
-# Link to my University github Account that Houses most of the my Projects and Assignments
-https://github.com/mehmmoodalirehmat
+# My University Github
+
+Link to my University github Account that Houses most of the my Projects and Assignments
+
+
+
+# https://github.com/mehmmoodalirehmat
+
 
 Welcome to CU Boulder CS Masters Compendium!
 This repository serves as a comprehensive archive of my master's degree journey in Computer Science at the University of Colorado Boulder. Here, you'll find a curated collection of projects and research that I've passionately worked on, spanning across cutting-edge fields such as Artificial Intelligence (AI), Machine Learning (ML), Large Language Models (LLMs), and Parallel Computing.
